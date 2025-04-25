@@ -1,0 +1,2 @@
+# dynamo
+servic dynamo radoator
